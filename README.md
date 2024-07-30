@@ -1,6 +1,6 @@
 Source code bahasa pemrograman Go yang dibuat oleh ChatGPT berdasarkan perintah dan arahan yang saya berikan:
 
-xlsx2mariadb adalah tools untuk memindahkan data-data dari file Microsoft Excel ke database MariaDB secara otomatis, nama file excel akan menjadi nama tabel pada database, file excel pada baris pertama akan dijadikan nama kolom pada tabel database, pembuatan tabel dan pengisian data dilaksanakan secara otomatis.
+xlsx2mariadb adalah tools untuk memindahkan data-data dari file-file Microsoft Excel ke database MariaDB secara otomatis, nama file excel akan menjadi nama tabel pada database, file excel pada baris pertama akan dijadikan nama kolom pada tabel database, pembuatan tabel dan pengisian data dilaksanakan secara otomatis.
 
 renamer adalah tools untuk mengganti beberapa karakter dari nama file
 
